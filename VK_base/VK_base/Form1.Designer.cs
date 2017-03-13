@@ -165,7 +165,7 @@
             this.find_groups_box.Name = "find_groups_box";
             this.find_groups_box.Size = new System.Drawing.Size(191, 20);
             this.find_groups_box.TabIndex = 9;
-            this.find_groups_box.Text = "Введите тему";
+            this.find_groups_box.Text = "okay";
             // 
             // find_groups_button
             // 
@@ -179,7 +179,7 @@
             // Pirat_button
             // 
             this.Pirat_button.BackColor = System.Drawing.Color.SandyBrown;
-            this.Pirat_button.Font = new System.Drawing.Font("News706 BT", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Pirat_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Pirat_button.Location = new System.Drawing.Point(711, 280);
             this.Pirat_button.Name = "Pirat_button";
             this.Pirat_button.Size = new System.Drawing.Size(184, 77);
