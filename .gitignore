@@ -1,0 +1,17 @@
+*.suo
+*.cache
+*.pdb
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.exe
+VK_base/VK_base/bin/Debug/WindowsFormsApplication1.exe
+VK_base/VK_base/bin/Debug/WindowsFormsApplication1.vshost.exe
+VK_base/VK_base/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest
+VK_base/VK_base/bin/Debug/VK_base.vshost.exe
+VK_base/VK_base/obj/x86/Debug/VK_base.csproj.FileListAbsolute.txt
+VK_base/VK_base/obj/x86/Debug/VK_base.exe
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.SpamForm.resources
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.DogPatrulForm.resources
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.Form1.resources
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.Properties.Resources.resources
+VK_base/VK_base/obj/x86/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt
+VK_base/VK_base/bin/Debug/VK_base.exe
+VK_base/VK_base/bin/Debug/VK_base.vshost.exe.manifest
