@@ -1,0 +1,28 @@
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\bin\Debug\VK_base.exe
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\bin\Debug\VK_base.pdb
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.AvtoLaikGroup.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.DogPatrulForm.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Gropsserc.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.SpamForm.resources
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.csproj.GenerateResource.Cache
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.exe
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.pdb
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.csprojResolveAssemblyReference.cache
+C:\Users\Алан\Documents\GitHub\failout\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.friend.resources
+F:\20vfhnf\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.exe
+F:\20vfhnf\GitHub\failout\VK_base\VK_base\obj\x86\Debug\VK_base.pdb
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\VK_base.exe
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\VK_base.pdb
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\bin\Debug\VK_base.exe
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\bin\Debug\VK_base.pdb
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\VK_base.csprojResolveAssemblyReference.cache
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.AvtoLaikGroup.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.DogPatrulForm.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.friend.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Gropsserc.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\WindowsFormsApplication1.SpamForm.resources
+F:\Новая папка\20vfhnf\GitHub\failout — копия\VK_base\VK_base\obj\x86\Debug\VK_base.csproj.GenerateResource.Cache

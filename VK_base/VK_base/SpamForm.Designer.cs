@@ -37,7 +37,6 @@
             this.ClientSize = new System.Drawing.Size(624, 403);
             this.Name = "SpamForm";
             this.Text = "SpamForm";
-            this.Load += new System.EventHandler(this.SpamForm_Load);
             this.ResumeLayout(false);
 
         }

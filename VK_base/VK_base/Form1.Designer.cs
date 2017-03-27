@@ -48,6 +48,7 @@
             this.addFriends_button = new System.Windows.Forms.Button();
             this.gropssercbaton = new System.Windows.Forms.Button();
             this.Laikbutton = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -165,7 +166,8 @@
             this.find_groups_box.Name = "find_groups_box";
             this.find_groups_box.Size = new System.Drawing.Size(191, 20);
             this.find_groups_box.TabIndex = 9;
-            this.find_groups_box.Text = "okay";
+            this.find_groups_box.Text = "Введите тему";
+            this.find_groups_box.TextChanged += new System.EventHandler(this.find_groups_box_TextChanged);
             // 
             // find_groups_button
             // 
@@ -217,11 +219,22 @@
             this.Laikbutton.UseVisualStyleBackColor = true;
             this.Laikbutton.Click += new System.EventHandler(this.Laikbutton_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(293, 283);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(56, 19);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(945, 470);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.Laikbutton);
             this.Controls.Add(this.gropssercbaton);
             this.Controls.Add(this.addFriends_button);
@@ -270,6 +283,7 @@
         private System.Windows.Forms.Button addFriends_button;
         private System.Windows.Forms.Button gropssercbaton;
         private System.Windows.Forms.Button Laikbutton;
+        private System.Windows.Forms.Button button1;
     }
 }
 
